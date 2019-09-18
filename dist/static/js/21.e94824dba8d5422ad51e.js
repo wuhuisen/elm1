@@ -1,0 +1,2 @@
+webpackJsonp([21],{cTkg:function(e,t,i){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var c=i("xd7I"),n=i("qqHy"),o=i.n(n);c.default.directive("focus",{inserted:function(e){e.focus()}}),c.default.directive("faA",{inserted:function(e){console.log(o()(e)[0]),e.onclick=function(){e.style.width="2rem",e.style.height="2rem",e.style.border=" 1px solid red"}}})}});
+//# sourceMappingURL=21.e94824dba8d5422ad51e.js.map
